@@ -1,0 +1,91 @@
+body{
+    background-image: url(https://www.10wallpaper.com/wallpaper/1366x768/1407/Guitarist_nostalgia-Windows_8_Theme_Wallpaper_1366x768.jpg);
+    background-size: 100%;
+    background-attachment: fixed, scroll;
+    background-repeat: no-repeat, repeat-y;
+}
+.video{
+    text-align: center;
+    margin: 0;
+    margin-top: -100px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Bangers', cursive;
+    font-size: 60px;
+    letter-spacing: 2px;
+}
+h2{
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'Bangers', cursive;
+    font-size: 45px;
+}
+.sobre{
+    color: white;
+    text-align: justify;
+    letter-spacing: 2px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 1.2em;
+    text-indent: 40px;
+}
+.musica{
+    font-family: 'Bangers', cursive;
+    color: white;
+    font-size: 45px;
+    margin-top: 20px;
+    margin-left: 700px;
+}
+li{
+    margin-top: 10px;
+    margin-left: 120px;
+    color: white;
+}
+.back{
+    background-color: black;
+}
+h3{
+    color: white;
+    font-family: 'Bangers', cursive;
+    font-size: 20px;
+}
+.direita{
+    text-align: left;
+    margin-top: -200px;
+    margin-left: 600px
+}
+.alinhamento1{
+    margin-left: 100px;
+}
+.alinhamento2{
+    margin-left: 100px;
+}
+.alinhamento3{
+    margin-left: 100px;
+}
+.direita2{
+    margin-left: 700px;
+    margin-top: -200px;
+    text-align: left;
+}
+.esquerda{
+    margin-left: -600px;
+}
+.alinhamento4{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.meio{
+    margin-left: 10px;
+    margin-top: -225px;
+}
+.direita3{
+    margin-top: -225px;
+    margin-left: 700px;
+}
+
